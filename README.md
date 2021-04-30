@@ -55,3 +55,15 @@ jobs:
 ```
 
 ## Example output
+
+```
+Hello Gabriel!
+The event payload: {
+  "after": "feb179e5b0343e45ca49c36d347a1cba61c42cdc",
+  "base_ref": null,
+  "before": "72fe369aef041834030872a80fd76a0897b6e9dc",
+  "commits": [
+    {
+      ...
+The time was 09:44:53 GMT+0000 (Coordinated Universal Time)
+```
