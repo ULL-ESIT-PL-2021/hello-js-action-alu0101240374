@@ -20,7 +20,7 @@ This action will read your name and the event's payload, and print it on the Git
 
 **Required** None
 
-**oPtional** The time we greeted you.
+**Optional** The time we greeted you.
 
 ## Secrets
 
